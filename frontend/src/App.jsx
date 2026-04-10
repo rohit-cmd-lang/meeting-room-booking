@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import BookingForm from "./BookingForm";
 import BookingList from "./BookingList";
 
-const API = "http://localhost:3001";
+const API = "https://meeting-room-booking-git6.onrender.com";
 
 export default function App() {
   const [rooms, setRooms] = useState([]);
