@@ -28,3 +28,6 @@ backend/bookings.db
 
 # Backend logs
 backend/*.log
+
+backend/node_modules
+frontend/node_modules
