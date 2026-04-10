@@ -1,0 +1,6 @@
+
+# Database file
+backend/bookings.db
+
+# Backend logs
+backend/*.log
